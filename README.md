@@ -1,11 +1,11 @@
-# Tyler Rivas
+# Hello!
 <img src="image0.png" width=225px title="A small solar system project made for a class. You can fly the space shuttle around the Titania4 star system." alt="A 3d scene with a space shuttle in front of a pale blue gas giant. A smaller planet can be seen further back. Part of a class project.">
 
 ## About
 <p>
-I am a senior majoring in Applied Computer Science with a simulation and graphics focus at Oregon State University.
-I enjoy hiking, fishing, and rock climbing
-Currently working on a Augmented Reality Sandbox to aid in civil and construction engineering. 
+My name is Tyler Rivas, I am a senior majoring in Applied Computer Science with a simulation and graphics focus at Oregon State University.
+I enjoy hiking, fishing, and rock climbing, as well as playing video games such as <a href="https://factorio.com/">factorio</a>.
+Currently working on an Augmented Reality Sandbox to aid in civil and construction engineering. 
 </p>
 
 ## Projects
