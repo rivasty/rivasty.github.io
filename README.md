@@ -1,4 +1,4 @@
-<img src="image0.png" width=453>A screenshot from a school graphics project</img>
+<img src="image0.png" width=225px>
 ## About
 <p>
 I am a senior majoring in Applied Computer Science with a simulation and graphics focus at Oregon State University.
