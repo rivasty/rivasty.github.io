@@ -10,7 +10,8 @@ Currently working on a Augmented Reality Sandbox to aid in civil and constructio
 ## Projects
 
 ### AR Sandbox
-<p>A senior capstone project that enables users to interact tangibly with the terrain of an environment by physically pushing sand around in order to gain a new perspective when planning civil engineering projects, such as roads, bridges, and other construction projects. The sandbox can also simulate traffic flows and their changes if roads are blocked, showing increased traffic in other areas. Currently developing additional functionality to the existing sandbox.</p>
+<p>A senior capstone project that enables users to interact tangibly with the terrain of an environment by physically pushing sand around in order to gain a new perspective when planning civil engineering projects, such as roads, bridges, and other construction projects. The sandbox can also simulate traffic flows and their changes if roads are blocked, showing increased traffic in other areas.</p> 
+<p>Currently developing additional functionality to the existing sandbox.</p>
 <ul>
     <li>Disaster relief simulations.</li>
     <li>import/export terrain data functionality to common GIS formats.</li>
