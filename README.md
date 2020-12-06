@@ -1,6 +1,5 @@
 <img src="image0.png" width=453>A screenshot from a school graphics project</img>
 ## About
----
 <p>
 I am a senior majoring in Applied Computer Science with a simulation and graphics focus at Oregon State University.
 I enjoy hiking, fishing, and rock climbing
@@ -8,7 +7,7 @@ Currently working on a Augmented Reality Sandbox to aid in civil and constructio
 </p>
 
 ## Projects
----
+
 ### AR Sandbox
 <p>A senior capstone project that enables users to interact tangibly with the terrain of an environment by physically pushing sand around in order to gain a new perspective when planning civil engineering projects, such as roads, bridges, and other construction projects. The sandbox can also simulate traffic flows and their changes if roads are blocked, showing increased traffic in other areas. Currently developing additional functionality to the existing sandbox.</p>
 <ul>
@@ -18,7 +17,7 @@ Currently working on a Augmented Reality Sandbox to aid in civil and constructio
 </ul>
 
 ## Links
----
+
 ### Linkdin
  <li><a href="https://www.linkedin.com/in/tyler-rivas-8b8629189/">https://www.linkedin.com/in/tyler-rivas</a></li>
     
