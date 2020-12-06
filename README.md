@@ -5,7 +5,7 @@
 <p>
 My name is Tyler Rivas, I am a senior majoring in Applied Computer Science with a simulation and graphics focus at Oregon State University.
 I enjoy hiking, fishing, and rock climbing, as well as playing video games such as factorio.
-Currently working on an Augmented Reality Sandbox to aid in civil and construction engineering. 
+I am currently working on an Augmented Reality Sandbox to aid in civil and construction engineering. 
 </p>
 
 ## Projects
