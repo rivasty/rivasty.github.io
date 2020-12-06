@@ -1,4 +1,4 @@
-<img src="image0.png" width=225px title="A small solar system project made for a class. You can fly the space shuttle around the Titania4 star system.">
+<img src="image0.png" width=225px title="A small solar system project made for a class. You can fly the space shuttle around the Titania4 star system." alt="A 3d scene with a space shuttle in front of a pale blue gas giant. A smaller planet can be seen further back. Part of a class project.">
 
 ## About
 <p>
