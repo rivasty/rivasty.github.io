@@ -1,3 +1,4 @@
+<img src="image0.png" width=453>A screenshot from a school graphics project</img>
 ## About
 ---
 <p>
