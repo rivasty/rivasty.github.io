@@ -1,6 +1,6 @@
 # Hello!
 <img src="Shuttle.png" height=361px title="A small solar system project made for a class. You can fly the space shuttle around the Titania4 star system." alt="A 3d scene with a space shuttle in front of a pale blue gas giant. A smaller planet can be seen further back. Part of a class project.">
----
+
 ## About
 
 <p>
@@ -8,7 +8,7 @@ My name is Tyler Rivas, I am a senior majoring in Applied Computer Science with 
 I enjoy hiking, fishing, and rock climbing, as well as playing video games such as factorio.
 I am currently working on an Augmented Reality Sandbox to aid in civil and construction engineering. 
 </p>
----
+
 ## Projects
 
 ### Augmented Reality Sandbox
@@ -19,7 +19,7 @@ I am currently working on an Augmented Reality Sandbox to aid in civil and const
     <li>import/export terrain data functionality to common GIS formats.</li>
     <li>ability for the system to recognize different objects placed into the existing sandbox.</li>
 </ul>
----
+
 ## Links
 
 ### Linkdin
@@ -27,4 +27,4 @@ I am currently working on an Augmented Reality Sandbox to aid in civil and const
     
 ### Github
  <li><a href="https://github.com/rivasty">https://github.com/rivasty</a></li>
----
+
