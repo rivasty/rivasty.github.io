@@ -13,11 +13,10 @@ I am currently working on an Augmented Reality Sandbox to aid in civil and const
 
 ### Augmented Reality Sandbox
 <p>A senior capstone project that enables users to interact tangibly with the terrain of an environment by physically pushing sand around in order to gain a new perspective when planning civil engineering projects, such as roads, bridges, and other construction projects. The sandbox can also simulate traffic flows and their changes if roads are blocked, showing increased traffic in other areas. It is built in Unity3d using c# and the Vuforia framework to interact with a Xbox Kinect sensor, a camera, and a projector displaying color onto the sand.</p> 
-<p>Developing additional functionality to the existing sandbox:</p>
+<p>Developed additional functionality to the existing sandbox:</p>
 <ul>
-    <li>Disaster relief simulations.</li>
-    <li>import/export terrain data functionality to common GIS formats.</li>
-    <li>ability for the system to recognize different objects placed into the existing sandbox.</li>
+    <li>Implemented the ability for the sandbox to load external heightmaps into the scene, and direct the user to form the physical sand to the appropriate shape.</li>
+    <li>Implemented the ability to save the state of the sandbox to a heightmap for outside applications, and later loading back into the sandbox.</li>
 </ul>
 
 ## Links
