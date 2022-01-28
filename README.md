@@ -21,7 +21,7 @@ I am currently working on an Augmented Reality Sandbox to aid in civil and const
 
 #### Link to the project repo
 
-<li><a href="https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing">https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing</li>
+<li><a href="https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing">https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing</a></li>
     
 ### 
 
