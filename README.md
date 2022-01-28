@@ -17,13 +17,11 @@ I am currently working on an Augmented Reality Sandbox to aid in civil and const
 <ul>
     <li>Implemented the ability for the sandbox to load external heightmaps into the scene, and direct the user to form the physical sand to the appropriate shape.</li>
     <li>Implemented the ability to save the state of the sandbox to a heightmap for outside applications, and later loading back into the sandbox.</li>
+    #### Link to the project repo
+    <li><a href="https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing">https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing</a></li>
 </ul>
 
-#### Link to the project repo
-
-<li><a href="https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing">https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing</a></li>
-    
-### 
+### Further projects
 
 <li><em>SPAACE - An OpenGL project where you explore a simulated solar system with a small space shuttle. It can be seen in the above image.</em> https://github.com/rivasty/space </li>
 <li><em>QuickTarot - A Tarot reading website with descriptions for cards, and ability to write commets.</em> https://github.com/yanyan2019/cs290-final-assignment </li>
