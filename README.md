@@ -22,7 +22,14 @@ I am currently working on an Augmented Reality Sandbox to aid in civil and const
 #### Link to the project repo
 
 <li><a href="https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing">https://github.com/Zach116/AR-Sandbox-for-OSU-Civil-Construction-Engineering/tree/2020Testing</li>
+    
+### 
 
+<li><em>SPAACE - An OpenGL project where you explore a simulated solar system with a small space shuttle. It can be seen in the above image.</em>  </li>
+<li><em>QuickTarot - A Tarot reading website</em> https://github.com/yanyan2019/cs290-final-assignment </li>
+<li><em>UlitmateDex - An android application for searching information of pokemon across all generations.</em> </li>
+<li><em>AcesUP - A web app that lets you play the solitaire variant, Aces Up</em> https://github.com/cs361f2019-osu/Fall2019-bcc </li>
+    
 ## Links
 
 ### Linkdin
